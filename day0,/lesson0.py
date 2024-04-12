@@ -1,0 +1,1 @@
+#ავაშენოთ სახლი (from turtle import *)
